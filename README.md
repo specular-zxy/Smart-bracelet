@@ -14,7 +14,7 @@ brief: We use Raspberry Pi to simulate the hardware end of the smart bracelet, a
 
 连接图如下：
 
-<img src="C:\image-20200229234642622.png" alt="image-20200229234642622" style="zoom:80%;" />
+<img src="image-20200229234642622.png" alt="image-20200229234642622" style="zoom:80%;" />
 
 
 
@@ -31,10 +31,6 @@ brief: We use Raspberry Pi to simulate the hardware end of the smart bracelet, a
 ### 地理位置
 
 使用树莓派GPS扩展板，通过GPS定位获得原始经纬度，并将其转换为高德地图的加密后的经纬度，每隔5秒传给服务器。
-
-<img src="image-20200229235635220.png" alt="image-20200229235635220" style="zoom:67%;" />
-
-
 
 ## 代码简述
 
