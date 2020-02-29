@@ -32,7 +32,7 @@ brief: We use Raspberry Pi to simulate the hardware end of the smart bracelet, a
 
 使用树莓派GPS扩展板，通过GPS定位获得原始经纬度，并将其转换为高德地图的加密后的经纬度，每隔5秒传给服务器。
 
-<img src="C:\Users\zxy\AppData\Roaming\Typora\typora-user-images\image-20200229235635220.png" alt="image-20200229235635220" style="zoom:67%;" />
+<img src="image-20200229235635220.png" alt="image-20200229235635220" style="zoom:67%;" />
 
 
 
@@ -55,3 +55,4 @@ brief: We use Raspberry Pi to simulate the hardware end of the smart bracelet, a
 摔倒信息处理：
 
 <img src="image-20200301000456357.png" alt="image-20200301000456357" style="zoom:80%;" />
+
