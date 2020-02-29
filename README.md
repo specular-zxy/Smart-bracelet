@@ -14,7 +14,7 @@ brief: We use Raspberry Pi to simulate the hardware end of the smart bracelet, a
 
 连接图如下：
 
-<img src="C:\Users\zxy\AppData\Roaming\Typora\typora-user-images\image-20200229234642622.png" alt="image-20200229234642622" style="zoom:80%;" />
+<img src="C:\image-20200229234642622.png" alt="image-20200229234642622" style="zoom:80%;" />
 
 
 
@@ -22,13 +22,11 @@ brief: We use Raspberry Pi to simulate the hardware end of the smart bracelet, a
 
 使用MAX4466声音传感器采集声音信息，通过arduino将模拟信息转化为数字信息，再传入树莓派进行阈值判断处理
 
-<img src="file:///C:/Users/zxy/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg" alt="img" style="zoom:67%;" />
 
 ### 摔倒监测
 
 使用MPU6050六轴陀螺仪采集人体的加速度、角速度和角度信息，并将加速度信息进行再加工和处理来判断是否摔倒，具体算法参考文献实验数据实现。
 
-<img src="file:///C:/Users/zxy/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg" alt="img" style="zoom:67%;" />
 
 ### 地理位置
 
@@ -52,8 +50,8 @@ brief: We use Raspberry Pi to simulate the hardware end of the smart bracelet, a
 
 声音数据处理：
 
-<img src="C:\Users\zxy\AppData\Roaming\Typora\typora-user-images\image-20200301000343030.png" alt="image-20200301000343030" style="zoom: 80%;" />
+<img src="image-20200301000343030.png" alt="image-20200301000343030" style="zoom: 80%;" />
 
 摔倒信息处理：
 
-<img src="C:\Users\zxy\AppData\Roaming\Typora\typora-user-images\image-20200301000456357.png" alt="image-20200301000456357" style="zoom:80%;" />
+<img src="image-20200301000456357.png" alt="image-20200301000456357" style="zoom:80%;" />
