@@ -14,7 +14,7 @@ brief: We use Raspberry Pi to simulate the hardware end of the smart bracelet, a
 
 连接图如下：
 
-<img src="image-20200229234642622.png" alt="image-20200229234642622" style="zoom:80%;" />
+<img src="img\image-20200229234642622.png" alt="image-20200229234642622" style="zoom:80%;" />
 
 
 
@@ -46,9 +46,9 @@ brief: We use Raspberry Pi to simulate the hardware end of the smart bracelet, a
 
 声音数据处理：
 
-<img src="image-20200301000343030.png" alt="image-20200301000343030" style="zoom: 80%;" />
+<img src="img\image-20200301000343030.png" alt="image-20200301000343030" style="zoom: 80%;" />
 
 摔倒信息处理：
 
-<img src="image-20200301000456357.png" alt="image-20200301000456357" style="zoom:80%;" />
+<img src="img\image-20200301000456357.png" alt="image-20200301000456357" style="zoom:80%;" />
 
